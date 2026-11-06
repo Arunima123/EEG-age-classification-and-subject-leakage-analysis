@@ -1,0 +1,12 @@
+# Python environment and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Raw data downloaded from OpenNeuro (large; the README explains how to fetch it)
+ds005385/
+mne_data/
